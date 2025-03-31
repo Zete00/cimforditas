@@ -58,3 +58,25 @@ p {
   text-align: justify;
   text-indent: 25px;
 }
+
+.imgtitle {
+  font-style: italic;
+  text-align: center;
+  line-height: 130%;
+}
+
+table, td, th {
+  border: 3px solid green;
+  border-collapse: collapse;
+  background-color:  rgba(227, 225, 233, 0.8);
+}
+
+th {
+  background-color:green;
+  color: white;
+}
+
+td, th {
+  padding: 10px;
+  text-align: center;
+}
